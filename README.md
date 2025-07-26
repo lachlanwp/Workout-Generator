@@ -5,9 +5,7 @@
 [![Coverage](https://img.shields.io/endpoint?url=https://lachlanwp.github.io/wurqit/badges/coverage.json)](https://github.com/lachlanwp/wurqit/actions/workflows/test-simple.yml)
 
 
-<div align="center">
-    <img src="promo.png" alt="Description" style="max-width:100%; height:auto;" /> 
-</div>
+<img src="promo.png" alt="Description" style="max-width:100%; height:auto;" /> 
 
 
 Wurqit is your ultimate desktop workout video generator — built for fitness enthusiasts who want total control over their routines without the hassle.
